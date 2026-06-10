@@ -21,7 +21,7 @@ simulated payment transactions securely.
 
 ## How to Run
 1. Clone the repository
-   git clone <your-repo-url>
+   git clone https://github.com/Vishal-T-24/Payment-Gateway-Simulation-System.git
 2. Configure your PostgreSQL and Redis connection in
    src/main/resources/application.properties
 3. Run the application
